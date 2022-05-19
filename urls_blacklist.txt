@@ -11,3 +11,5 @@ firefox-uk.site
 firefox-uk-com.ng 
 firefox-uk.xyz
 i-love-evilnominatuscrypt.000webhostapp.com
+bitratnew9200.duckdns.org
+bitrat9300.duckdns.org
