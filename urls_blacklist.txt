@@ -55,3 +55,11 @@ one-drive.me
 droboxcloud.com
 kaktusmarket.com
 instantcloudbackup.com
+tcp443.newdesk.top
+tcp.symantecserver.co
+kcp53.aptmirror.eu
+kcp53.msupdate.us
+tcp443.aptmirror.eu
+tcp443.msupdate.us
+work.newdesk.top
+tcp.newdesk.top
