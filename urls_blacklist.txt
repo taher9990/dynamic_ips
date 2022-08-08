@@ -65,3 +65,7 @@ work.newdesk.top
 tcp.newdesk.top
 ws.onehub.com
 relay.screenconnect.com
+a.oracleservice.top
+b.oracleservice.top
+pwn.oracleservice.top
+jira.letmaker.top
