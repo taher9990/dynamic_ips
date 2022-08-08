@@ -63,3 +63,5 @@ tcp443.aptmirror.eu
 tcp443.msupdate.us
 work.newdesk.top
 tcp.newdesk.top
+ws.onehub.com
+relay.screenconnect.com
